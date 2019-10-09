@@ -1,2 +1,2 @@
-# Codeforces-Online-Judge
-# Online Programming Contest
+# Codeforces-Online-Judge-Problem Solution
+# Created by Nur_Alam
