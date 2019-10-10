@@ -1,2 +1,2 @@
-# JavaScript
-Online Programming Contest
+# Online Programming Contest
+JavaScript
