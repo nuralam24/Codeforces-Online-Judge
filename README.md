@@ -1,1 +1,1 @@
-# Created by: Nur_Alam
+# Online Programming Contest
