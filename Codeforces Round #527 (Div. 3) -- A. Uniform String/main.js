@@ -7,7 +7,7 @@ for(var i=0; i<t; i++) {
  
     var all = 'abcdefghijklmnopqrstuvwxyz';
     var h = 0;
-    for(var i=0; i<a; i++) {
+    for(var j=0; j<a; j++) {
                 write(all[h]);
                 h++;
                 if(h == b){
