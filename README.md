@@ -3,4 +3,4 @@ JavaScript
 
 
 
-![codeforces](https://user-images.githubusercontent.com/54984550/67177816-f97e9080-f3f1-11e9-8f8c-0dc59f9ec3ac.PNG)
+![codeofrces](https://user-images.githubusercontent.com/54984550/67179655-cee40600-f3f8-11e9-86db-3b1853bc7e4f.PNG)
