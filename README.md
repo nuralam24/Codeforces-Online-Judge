@@ -1,5 +1,5 @@
 # Online Programming Contest
-JavaScript , Node.js & C++ 
+JavaScript , Node.js  &  C++ 
 
 
 
